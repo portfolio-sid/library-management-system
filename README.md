@@ -6,13 +6,12 @@ A simple C++ based Library Management System that allows users to manage books a
 
 ### **__Features__**
 
-    User authentication (login/signup)
+    User authentication
     Add new books to the library
     Change the status of books (available, issued, removed)
     Display book information
     List books by category
     List books by author
-    Logout functionality
 
 ### **File Structure**
 
